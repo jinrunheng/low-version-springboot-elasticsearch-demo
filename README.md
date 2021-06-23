@@ -1,6 +1,6 @@
 # low-version Spring Boot(2.1.3RELEASE) integrate Elasticsearch Demo
 
-As you see, this is a demo that teaches you how to integrate Elasticsearch with a lower version of  for Spring Boot(2.1.3RELEASE) 
+As you see, this is a demo that teaches you how to integrate Elasticsearch with a lower version of Spring Boot(2.1.3RELEASE) 
 
 ## Usage
 
