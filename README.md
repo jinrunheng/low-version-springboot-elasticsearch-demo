@@ -3,6 +3,10 @@
 As you see, this is a demo that teaches you how to integrate Elasticsearch with a lower version of Spring Boot(2.1.3RELEASE) 
 
 - elasticsearch version:6.4.3
+- elasticsearch.yml config
+     - cluster.name: test
+     - path.data: /tmp/elasticsearch/data/
+     - path.logs: /tmp/elasticsearch/logs/
 
 ## Usage
 
