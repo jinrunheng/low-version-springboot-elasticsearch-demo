@@ -2,6 +2,8 @@
 
 As you see, this is a demo that teaches you how to integrate Elasticsearch with a lower version of Spring Boot(2.1.3RELEASE) 
 
+- elasticsearch version:6.4.3
+
 ## Usage
 
 1. start Elasticsearch service
